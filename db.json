@@ -1,22 +1,1020 @@
 {
-  "students": [
+  "topMovies": [
     {
-      "id": "ef48",
-      "name": "",
-      "number": "",
-      "course": "full stack"
+      "id": 1,
+      "title": "Raayan",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/44fdfa89027925e2da404b733bd5d1e7015eb2de0028e62108de0ce81f9fa84e.jpg",
+      "description": "A gripping tale of love, betrayal, and redemption, 'Raayan' explores the darker sides of human emotions.",
+      "type": "topMovies"
     },
     {
-      "id": "2741",
-      "name": "java",
-      "number": "7777996541",
-      "course": "backend"
+      "id": 2,
+      "title": "Kalki",
+      "img": "https://northeastlive.s3.amazonaws.com/media/uploads/2024/07/Kalki-cover.jpg",
+      "description": "An epic action-fantasy film set in a futuristic world. 'Kalki' is a visual spectacle that blends mythology with modern storytelling.",
+      "type": "topMovies"
     },
     {
-      "id": "3d71",
-      "name": "mongodb",
-      "number": "65",
-      "course": "backend"
+      "id": 3,
+      "title": "Chandu Champion",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00363650-cjmqwrghdy-landscape.jpg",
+      "description": "An underdog story of resilience and determination, 'Chandu Champion' follows a young man's journey to overcome his struggles.",
+      "type": "topMovies"
+    },
+    {
+      "id": 4,
+      "title": "My Fault",
+      "img": "https://resizing.flixster.com/6KIgoDHnR4oWiX9nNPHl9rAMU0Y=/fit-in/1152x864/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24531823_v_h9_ac.jpg",
+      "description": "A romantic drama that delves into the consequences of one small mistake and how it changes the course of lives forever.",
+      "type": "topMovies"
+    },
+    {
+      "id": 5,
+      "title": "Double ISMART",
+      "img": "https://i.ytimg.com/vi/pPJrUp0B-fY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAXun6-czpjIJK5NuQl3Ks_FaDO9g",
+      "description": "This high-octane action-packed thriller promises twice the excitement and intrigue with its twisted plot and smart protagonist.",
+      "type": "topMovies"
+    },
+    {
+      "id": 6,
+      "title": "Bheema",
+      "img": "https://i.ytimg.com/vi/i0psLSoKa3U/maxresdefault.jpg",
+      "description": "An epic warrior saga that showcases courage, loyalty, and the power of family in the face of insurmountable odds.",
+      "type": "topMovies"
+    },
+    {
+      "id": 7,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "'Jailer' is a gritty, intense action-drama that takes you inside the world of prisons, corruption, and power struggles.",
+      "type": "topMovies"
+    },
+    {
+      "id": 8,
+      "title": "Yodha",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00318073-qpnznkjxuj-landscape.jpg",
+      "description": "An elite soldier embarks on a mission of vengeance in this explosive action film that tests his loyalty and skills.",
+      "type": "topMovies"
+    },
+    {
+      "id": 9,
+      "title": "HouseFull 4",
+      "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3668/593668-h",
+      "description": "Get ready to laugh out loud as reincarnated lovers come together in this hilarious comedy of errors with a royal twist.",
+      "type": "topMovies"
+    },
+    {
+      "id": 10,
+      "title": "OMG 2",
+      "img": "https://www.livemint.com/lm-img/img/2023/07/11/600x338/F0vbj9-aEAAamWQ_1689062929453_1689062943099.jpg",
+      "description": "'OMG 2' brings social issues to the forefront, mixing comedy and drama to challenge outdated beliefs with wit and humor.",
+      "type": "topMovies"
+    },
+    {
+      "id": 11,
+      "title": "Dunky",
+      "img": "https://i.pinimg.com/736x/93/b0/3b/93b03b050cb5cc021ef432be94cf30db.jpg",
+      "description": "A thrilling space exploration movie where mankind faces its greatest challenge yet: survival beyond Earth.",
+      "type": "topMovies"
+    },
+    {
+      "id": 12,
+      "title": "Bad News",
+      "img": "https://static.toiimg.com/thumb/msid-108623688,width-1280,height-720,imgsize-91478,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "description": "An edgy and thought-provoking drama, 'Bad News' explores how media manipulation can change the fate of innocent people.",
+      "type": "topMovies"
+    },
+    {
+      "id": 13,
+      "title": "KGF 2",
+      "img": "https://mrwallpaper.com/images/high/k-g-f-2-movie-poster-2von5vqybbbu66ug.jpg",
+      "description": "The sequel to the blockbuster 'KGF', this film intensifies the power struggle as Rocky becomes the most feared man in India.",
+      "type": "topMovies"
+    },
+    {
+      "id": 14,
+      "title": "Sultan",
+      "img": "https://live.staticflickr.com/7408/27514935663_91fc378e72_b.jpg",
+      "description": "'Sultan' is an inspiring story of a wrestler who makes a comeback, overcoming personal and professional struggles.",
+      "type": "topMovies"
+    },
+    {
+      "id": 15,
+      "title": "Land of Bad",
+      "img": "https://i0.wp.com/maxblizz.com/wp-content/uploads/2024/02/Land-of-Bad123.jpg?resize=1140%2C570&ssl=1",
+      "description": "A gripping action-thriller about a covert military operation gone wrong in one of the most dangerous regions of the world.",
+      "type": "topMovies"
+    },
+    {
+      "id": 16,
+      "title": "Drishyam 2",
+      "img": "https://d2ajlz7o3p8ddv.cloudfront.net/media/misc/misc-cards/hero-image.jpg",
+      "description": "In this riveting crime thriller, secrets unravel as a murder investigation reopens, threatening to destroy a seemingly perfect family.",
+      "type": "topMovies"
+    },
+    {
+      "id": 17,
+      "title": "Double iSmart",
+      "img": "https://img.republicworld.com/tr:w-400,h-225,q-75,f-auto/rimages/Screenshot2024-02-16163521_16:9-170808221221716_9.webp",
+      "description": "An action-packed thriller with a high-tech twist.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 18,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "A gripping story about a jailer's struggle to maintain order.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 19,
+      "title": "Land of Bad",
+      "img": "https://i0.wp.com/maxblizz.com/wp-content/uploads/2024/02/Land-of-Bad123.jpg?resize=1140%2C570&ssl=1",
+      "description": "A dystopian adventure set in a world of chaos and danger.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 20,
+      "title": "Drishyam 2",
+      "img": "https://d2ajlz7o3p8ddv.cloudfront.net/media/misc/misc-cards/hero-image.jpg",
+      "description": "The highly anticipated sequel to the gripping thriller Drishyam.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 21,
+      "title": "Raayan",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/44fdfa89027925e2da404b733bd5d1e7015eb2de0028e62108de0ce81f9fa84e.jpg",
+      "description": "A dramatic story of a man’s quest for redemption.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 22,
+      "title": "Bheema",
+      "img": "https://i.ytimg.com/vi/i0psLSoKa3U/maxresdefault.jpg",
+      "description": "An intense drama featuring a powerful performance by its lead actor.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 23,
+      "title": "Pathaan",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2022/11/Pathaan-01.jpg",
+      "description": "An action thriller that promises high-octane drama and intrigue.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 24,
+      "title": "Yodha",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00318073-qpnznkjxuj-landscape.jpg",
+      "description": "A heroic tale set against a backdrop of epic battles.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 25,
+      "title": "Tiger 3",
+      "img": "https://i.ytimg.com/vi/8M5JzEbbTaU/maxresdefault.jpg",
+      "description": "The latest installment in the Tiger series, filled with action and suspense.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 26,
+      "title": "Pushpa",
+      "img": "https://www.koimoi.com/wp-content/new-galleries/2022/01/pushpa-to-cross-250-crore-mark-today-001.jpg",
+      "description": "A gripping drama about a smuggler’s rise to power.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 27,
+      "title": "KGF 2",
+      "img": "https://mrwallpaper.com/images/high/k-g-f-2-movie-poster-2von5vqybbbu66ug.jpg",
+      "description": "The sequel to the blockbuster KGF, continuing the saga of power and revenge.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 28,
+      "title": "Kantara",
+      "img": "https://wallpapercave.com/wp/wp11581877.jpg",
+      "description": "A gripping drama set in a small village with a rich cultural backdrop.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 29,
+      "title": "Master",
+      "img": "https://pbs.twimg.com/media/EVOCAX6U0AAthj1.jpg:large",
+      "description": "An action-packed film about a professor who takes on a dangerous criminal.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 30,
+      "title": "Bhoot",
+      "img": "https://staticimg.amarujala.com/assets/images/2020/01/28/bhoot-part-1_1580197247.jpeg?w=414",
+      "description": "A horror film that delves into the supernatural with chilling effects.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 31,
+      "title": "Sherni",
+      "img": "https://www.saevus.in/wp-content/uploads/2021/07/vidya-balan-sherni-1622612164.jpg",
+      "description": "A drama about a forest officer’s struggle to protect wildlife.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 32,
+      "title": "Eagle",
+      "img": "https://pakkatelugu.com/english/wp-content/uploads/2024/02/image-137.png",
+      "description": "An action-packed film featuring a thrilling storyline and dynamic characters.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 33,
+      "title": "Kalki",
+      "img": "https://i0.wp.com/moviegalleri.net/wp-content/uploads/2024/07/Prabhas-Kalki-2898-AD-Movie-1000-Cr-Collection-Poster-HD.jpg?ssl=1",
+      "description": "A futuristic action thriller set in a dystopian world, where a lone hero must fight against the odds to restore balance.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 34,
+      "title": "KGF 2",
+      "img": "https://mrwallpaper.com/images/high/k-g-f-2-movie-poster-2von5vqybbbu66ug.jpg",
+      "description": "The continuation of a larger-than-life story of power, betrayal, and revenge in the blood-soaked world of the Kolar Gold Fields.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 35,
+      "title": "Sultan",
+      "img": "https://live.staticflickr.com/7408/27514935663_91fc378e72_b.jpg",
+      "description": "An underdog wrestler embarks on a journey of redemption and self-discovery, battling his own demons and physical challenges.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 36,
+      "title": "Yodha",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00318073-qpnznkjxuj-landscape.jpg",
+      "description": "A gripping military action film where a brave soldier faces unimaginable odds to protect his country.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 37,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "An action-packed narrative where a prison warden takes on a gang of dangerous criminals to restore order.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 38,
+      "title": "Pushpa",
+      "img": "https://www.koimoi.com/wp-content/new-galleries/2022/01/pushpa-to-cross-250-crore-mark-today-001.jpg",
+      "description": "A raw and gritty story of one man's rise to dominance in the treacherous world of red sandalwood smuggling.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 39,
+      "title": "Tiger 3",
+      "img": "https://i.ytimg.com/vi/8M5JzEbbTaU/maxresdefault.jpg",
+      "description": "A high-octane spy thriller where a fearless RAW agent embarks on a dangerous mission to thwart global threats.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 40,
+      "title": "Bheema",
+      "img": "https://i.ytimg.com/vi/i0psLSoKa3U/maxresdefault.jpg",
+      "description": "A tale of valor and fierce battles as a warrior navigates through war and personal struggles to reclaim his honor.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 41,
+      "title": "Pathaan",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2022/11/Pathaan-01.jpg",
+      "description": "An exhilarating spy action film with a mission to stop a global catastrophe, packed with breathtaking stunts.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 42,
+      "title": "Kantara",
+      "img": "https://wallpapercave.com/wp/wp11581877.jpg",
+      "description": "A unique blend of action and folklore, this film showcases a man's fight to protect his land from modern greed.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 43,
+      "title": "SherShaah",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/3de8bc910ea9b1498905f9402400df3c086f0ea9bc35d12bc20f0b133ea37e23.jpg",
+      "description": "A biographical action film based on the life of an Indian war hero, showcasing his bravery and patriotism during the Kargil War.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 44,
+      "title": "Varisu",
+      "img": "https://wallpapercave.com/wp/wp11261604.jpg",
+      "description": "An action-packed family drama where a son fights to reclaim his father's empire from corporate rivals.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 45,
+      "title": "Land of Bad",
+      "img": "https://i0.wp.com/maxblizz.com/wp-content/uploads/2024/02/Land-of-Bad123.jpg?resize=1140%2C570&ssl=1",
+      "description": "A high-stakes action thriller that follows a special ops team as they attempt a dangerous rescue mission.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 46,
+      "title": "PS 2",
+      "img": "https://static.toiimg.com/photo/99722979.jpeg",
+      "description": "The epic sequel continues the legendary tale of betrayal, honor, and war set in the Chola dynasty.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 47,
+      "title": "Adipurush",
+      "img": "https://saisaysmovies.wordpress.com/wp-content/uploads/2023/06/ezgif-sixteen_nine_252.jpg.webp",
+      "description": "A grand mythological action film inspired by the Ramayana, depicting the triumph of good over evil.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 48,
+      "title": "Bholaa",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00326977-tuljwujqjg-landscape.jpg",
+      "description": "An intense action film about a man who, after being released from prison, embarks on a dangerous journey to reunite with his daughter.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 49,
+      "title": "HouseFull 4",
+      "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3668/593668-h",
+      "description": "A reincarnation comedy where three brothers must recall their past lives to break the curse of marrying the wrong women.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 50,
+      "title": "OMG 2",
+      "img": "https://www.livemint.com/lm-img/img/2023/07/11/600x338/F0vbj9-aEAAamWQ_1689062929453_1689062943099.jpg",
+      "description": "A satirical take on religious practices in India, as a common man challenges the system with divine intervention.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 51,
+      "title": "Dunky",
+      "img": "https://i.pinimg.com/736x/93/b0/3b/93b03b050cb5cc021ef432be94cf30db.jpg",
+      "description": "A hilarious journey of an immigrant who tries to make his way to a better life, facing unexpected twists along the way.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 52,
+      "title": "Bad News",
+      "img": "https://static.toiimg.com/thumb/msid-108623688,width-1280,height-720,imgsize-91478,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "description": "A chaotic comedy where a series of misunderstandings and lies lead to hilarious consequences for everyone involved.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 53,
+      "title": "Varisu",
+      "img": "https://wallpapercave.com/wp/wp11261604.jpg",
+      "description": "A lighthearted family comedy-drama where the youngest son must return to his roots to save the family business.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 54,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "A dark comedy where a jailer must outsmart a gang of criminals trying to escape, filled with quirky characters and unexpected humor.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 55,
+      "title": "Jackpot",
+      "img": "https://media-cache.cinematerial.com/p/500x/nah95llv/jackpot-movie-poster.jpg?v=1719929596",
+      "description": "Two con women embark on a rollercoaster ride of mishaps and mayhem as they try to retrieve a stolen jackpot.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 56,
+      "title": "Fukrey 3",
+      "img": "https://i.ytimg.com/vi/-YZRsxA7Rek/maxresdefault.jpg",
+      "description": "The hilarious misadventures of a group of friends continue as they plan yet another get-rich-quick scheme, leading to comedic chaos.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 57,
+      "title": "PT Sir",
+      "img": "https://i.ytimg.com/vi/pYc9wM0113Q/sddefault.jpg",
+      "description": "A sports comedy where a physical education teacher gets involved in humorous situations as he tries to lead his students to success.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 58,
+      "title": "Good News",
+      "img": "https://i.ytimg.com/vi/r9VJpqoAr84/maxresdefault.jpg",
+      "description": "A rib-tickling comedy of errors where two couples accidentally undergo a mix-up during IVF treatment, leading to hilarious consequences.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 59,
+      "title": "Fukrey",
+      "img": "https://s2.dmcdn.net/v/VGeT51b3OayTtQcLn/x720",
+      "description": "A comedy of errors where four friends try to turn their absurd dreams into reality, with disastrous yet funny results.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 60,
+      "title": "Jumanjy",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/0/b/g/small-spos13127-poster-jumanji-sl-13127-wall-poster-13x19-inches-original-imaggefhpxsgg7zh.jpeg?q=90&crop=false",
+      "description": "A fantastical adventure-comedy where a magical board game comes to life, throwing players into uproarious and dangerous challenges.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 61,
+      "title": "Hera Pheri",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDU2YmFmNTUtMTYxNS00OGYyLTkzNGYtMzQ4NjRjNjk5YzRmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cult comedy where three broke men find themselves involved in a hilarious kidnapping-ransom mix-up.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 62,
+      "title": "Student of the Year 2",
+      "img": "https://i.ytimg.com/vi/bCAJp4Adj50/maxresdefault.jpg",
+      "description": "A campus comedy where three students compete for the coveted title, filled with romance, rivalry, and funny moments.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 63,
+      "title": "Thank God",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ExIPafOze-dMUIafSPkE3MjRXrreP2xfdA&s",
+      "description": "A hilarious take on life after death, where a man must redeem himself with good deeds before he can return to the living.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 64,
+      "title": "Judwaa 2",
+      "img": "https://i.ytimg.com/vi/fs7IVTm1JYw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCIe7T9zjCuvnqkEfBMPcJLY3ahaA",
+      "description": "A slapstick comedy where two identical twins, separated at birth, come together to defeat the bad guys with plenty of laughs along the way.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 65,
+      "title": "Adipurush",
+      "img": "https://saisaysmovies.wordpress.com/wp-content/uploads/2023/06/ezgif-sixteen_nine_252.jpg.webp",
+      "description": "A mythological epic based on the Ramayana, where good battles evil as Lord Rama fights the demon king Ravana to rescue his wife Sita.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 66,
+      "title": "Shakuntalam",
+      "img": "https://www.cinejosh.com/newsimg/newsmainimg/shakuntalam-movie-dev-mohan-dazzles-as-king-dushyant_b_1809221120.jpg",
+      "description": "An enchanting love story set in a magical world, focusing on Shakuntala and her divine romance with King Dushyanta, from the Indian mythology Mahabharata.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 67,
+      "title": "Thank God",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ExIPafOze-dMUIafSPkE3MjRXrreP2xfdA&s",
+      "description": "A fantasy comedy where a man gets a chance to redeem himself after dying, through a divine game that determines his fate in the afterlife.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 68,
+      "title": "Maaveeran",
+      "img": "https://static.toiimg.com/photo/101326374.cms",
+      "description": "A thrilling fantasy adventure of a heroic warrior who stands up against tyranny to save his people, armed with mythical powers and determination.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 69,
+      "title": "Kalki",
+      "img": "https://northeastlive.s3.amazonaws.com/media/uploads/2024/07/Kalki-cover.jpg",
+      "description": "Set in a futuristic world, a divine warrior is prophesied to restore balance to a world overrun by evil forces in this fantasy-action epic.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 70,
+      "title": "Jumanjy",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/0/b/g/small-spos13127-poster-jumanji-sl-13127-wall-poster-13x19-inches-original-imaggefhpxsgg7zh.jpeg?q=90&crop=false",
+      "description": "A magical board game comes to life, transporting players into a world filled with dangerous animals and thrilling challenges that can only be escaped by completing the game.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 71,
+      "title": "Aquaman 2",
+      "img": "https://i.ytimg.com/vi/HXjPwYAZGI0/maxresdefault.jpg",
+      "description": "In this underwater fantasy adventure, Aquaman returns to protect Atlantis and the surface world from new and formidable threats lurking in the ocean depths.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 72,
+      "title": "Shazam",
+      "img": "https://w0.peakpx.com/wallpaper/846/77/HD-wallpaper-movie-shazam-zachary-levi.jpg",
+      "description": "A young boy magically transforms into an adult superhero when he utters the word 'Shazam', bringing humor and excitement as he navigates his newfound powers.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 73,
+      "title": "Bahubali",
+      "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "An epic saga of a legendary warrior prince, torn between loyalty and love, who must reclaim his kingdom and uncover secrets about his lineage.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 74,
+      "title": "The Mummy",
+      "img": "https://images.alphacoders.com/132/1323934.jpg",
+      "description": "An ancient Egyptian curse is unleashed when a mummy is awakened, bringing a mix of horror and adventure as the heroes battle the supernatural.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 75,
+      "title": "Batman Returns",
+      "img": "https://images8.alphacoders.com/134/thumb-350-1346226.webp",
+      "description": "Gotham City’s dark knight faces off against the Penguin and Catwoman, blending fantasy with crime-fighting action in this thrilling superhero sequel.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 76,
+      "title": "Pari",
+      "img": "https://i.ytimg.com/vi/BJfSxWPEYas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNPVCeI_ttG1xKNOfFu3NGORbV8w",
+      "description": "A chilling supernatural thriller that blurs the line between fantasy and horror as a mysterious woman with a dark past is at the center of sinister events.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 77,
+      "title": "Jurassic Attack",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/4c70f9543f987355716450b82847ed0a8a2072e300a625a28711488148b01879.jpg",
+      "description": "A group of soldiers is stranded in a jungle full of prehistoric dinosaurs, leading to a suspenseful adventure as they fight to survive.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 78,
+      "title": "Sardaarji 2",
+      "img": "https://i.ytimg.com/vi/b-Hsfe7Gu2Q/maxresdefault.jpg",
+      "description": "A Punjabi warrior embarks on a fantasy-filled journey across different realms, mixing humor, action, and magic in his quest for a mystical artifact.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 79,
+      "title": "Conan",
+      "img": "https://i.ytimg.com/vi/uUHvLcb37KA/maxresdefault.jpg",
+      "description": "Conan the Barbarian takes on evil sorcerers and monstrous enemies in this fantasy classic, filled with sword-and-sorcery action in a mythical land.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 80,
+      "title": "The Mummy Returns",
+      "img": "https://i.ytimg.com/vi/86P6FmyrY0M/maxresdefault.jpg",
+      "description": "In this sequel, an ancient evil is resurrected, leading to a perilous adventure full of ancient curses, mummies, and thrilling action.",
+      "type": "fantasyMovies"
+    }
+  ],
+  "mysterMovies": [
+    {
+      "id": 17,
+      "title": "Double iSmart",
+      "img": "https://img.republicworld.com/tr:w-400,h-225,q-75,f-auto/rimages/Screenshot2024-02-16163521_16:9-170808221221716_9.webp",
+      "description": "An action-packed thriller with a high-tech twist.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 18,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "A gripping story about a jailer's struggle to maintain order.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 19,
+      "title": "Land of Bad",
+      "img": "https://i0.wp.com/maxblizz.com/wp-content/uploads/2024/02/Land-of-Bad123.jpg?resize=1140%2C570&ssl=1",
+      "description": "A dystopian adventure set in a world of chaos and danger.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 20,
+      "title": "Drishyam 2",
+      "img": "https://d2ajlz7o3p8ddv.cloudfront.net/media/misc/misc-cards/hero-image.jpg",
+      "description": "The highly anticipated sequel to the gripping thriller Drishyam.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 21,
+      "title": "Raayan",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/44fdfa89027925e2da404b733bd5d1e7015eb2de0028e62108de0ce81f9fa84e.jpg",
+      "description": "A dramatic story of a man’s quest for redemption.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 22,
+      "title": "Bheema",
+      "img": "https://i.ytimg.com/vi/i0psLSoKa3U/maxresdefault.jpg",
+      "description": "An intense drama featuring a powerful performance by its lead actor.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 23,
+      "title": "Pathaan",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2022/11/Pathaan-01.jpg",
+      "description": "An action thriller that promises high-octane drama and intrigue.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 24,
+      "title": "Yodha",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00318073-qpnznkjxuj-landscape.jpg",
+      "description": "A heroic tale set against a backdrop of epic battles.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 25,
+      "title": "Tiger 3",
+      "img": "https://i.ytimg.com/vi/8M5JzEbbTaU/maxresdefault.jpg",
+      "description": "The latest installment in the Tiger series, filled with action and suspense.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 26,
+      "title": "Pushpa",
+      "img": "https://www.koimoi.com/wp-content/new-galleries/2022/01/pushpa-to-cross-250-crore-mark-today-001.jpg",
+      "description": "A gripping drama about a smuggler’s rise to power.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 27,
+      "title": "KGF 2",
+      "img": "https://mrwallpaper.com/images/high/k-g-f-2-movie-poster-2von5vqybbbu66ug.jpg",
+      "description": "The sequel to the blockbuster KGF, continuing the saga of power and revenge.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 28,
+      "title": "Kantara",
+      "img": "https://wallpapercave.com/wp/wp11581877.jpg",
+      "description": "A gripping drama set in a small village with a rich cultural backdrop.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 29,
+      "title": "Master",
+      "img": "https://pbs.twimg.com/media/EVOCAX6U0AAthj1.jpg:large",
+      "description": "An action-packed film about a professor who takes on a dangerous criminal.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 30,
+      "title": "Bhoot",
+      "img": "https://staticimg.amarujala.com/assets/images/2020/01/28/bhoot-part-1_1580197247.jpeg?w=414",
+      "description": "A horror film that delves into the supernatural with chilling effects.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 31,
+      "title": "Sherni",
+      "img": "https://www.saevus.in/wp-content/uploads/2021/07/vidya-balan-sherni-1622612164.jpg",
+      "description": "A drama about a forest officer’s struggle to protect wildlife.",
+      "type": "mysterMovies"
+    },
+    {
+      "id": 32,
+      "title": "Eagle",
+      "img": "https://pakkatelugu.com/english/wp-content/uploads/2024/02/image-137.png",
+      "description": "An action-packed film featuring a thrilling storyline and dynamic characters.",
+      "type": "mysterMovies"
+    }
+  ],
+  "actionMovies": [
+    {
+      "id": 33,
+      "title": "Kalki",
+      "img": "https://i0.wp.com/moviegalleri.net/wp-content/uploads/2024/07/Prabhas-Kalki-2898-AD-Movie-1000-Cr-Collection-Poster-HD.jpg?ssl=1",
+      "description": "A futuristic action thriller set in a dystopian world, where a lone hero must fight against the odds to restore balance.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 34,
+      "title": "KGF 2",
+      "img": "https://mrwallpaper.com/images/high/k-g-f-2-movie-poster-2von5vqybbbu66ug.jpg",
+      "description": "The continuation of a larger-than-life story of power, betrayal, and revenge in the blood-soaked world of the Kolar Gold Fields.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 35,
+      "title": "Sultan",
+      "img": "https://live.staticflickr.com/7408/27514935663_91fc378e72_b.jpg",
+      "description": "An underdog wrestler embarks on a journey of redemption and self-discovery, battling his own demons and physical challenges.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 36,
+      "title": "Yodha",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00318073-qpnznkjxuj-landscape.jpg",
+      "description": "A gripping military action film where a brave soldier faces unimaginable odds to protect his country.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 37,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "An action-packed narrative where a prison warden takes on a gang of dangerous criminals to restore order.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 38,
+      "title": "Pushpa",
+      "img": "https://www.koimoi.com/wp-content/new-galleries/2022/01/pushpa-to-cross-250-crore-mark-today-001.jpg",
+      "description": "A raw and gritty story of one man's rise to dominance in the treacherous world of red sandalwood smuggling.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 39,
+      "title": "Tiger 3",
+      "img": "https://i.ytimg.com/vi/8M5JzEbbTaU/maxresdefault.jpg",
+      "description": "A high-octane spy thriller where a fearless RAW agent embarks on a dangerous mission to thwart global threats.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 40,
+      "title": "Bheema",
+      "img": "https://i.ytimg.com/vi/i0psLSoKa3U/maxresdefault.jpg",
+      "description": "A tale of valor and fierce battles as a warrior navigates through war and personal struggles to reclaim his honor.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 41,
+      "title": "Pathaan",
+      "img": "https://www.bollywoodhungama.com/wp-content/uploads/2022/11/Pathaan-01.jpg",
+      "description": "An exhilarating spy action film with a mission to stop a global catastrophe, packed with breathtaking stunts.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 42,
+      "title": "Kantara",
+      "img": "https://wallpapercave.com/wp/wp11581877.jpg",
+      "description": "A unique blend of action and folklore, this film showcases a man's fight to protect his land from modern greed.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 43,
+      "title": "SherShaah",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/3de8bc910ea9b1498905f9402400df3c086f0ea9bc35d12bc20f0b133ea37e23.jpg",
+      "description": "A biographical action film based on the life of an Indian war hero, showcasing his bravery and patriotism during the Kargil War.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 44,
+      "title": "Varisu",
+      "img": "https://wallpapercave.com/wp/wp11261604.jpg",
+      "description": "An action-packed family drama where a son fights to reclaim his father's empire from corporate rivals.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 45,
+      "title": "Land of Bad",
+      "img": "https://i0.wp.com/maxblizz.com/wp-content/uploads/2024/02/Land-of-Bad123.jpg?resize=1140%2C570&ssl=1",
+      "description": "A high-stakes action thriller that follows a special ops team as they attempt a dangerous rescue mission.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 46,
+      "title": "PS 2",
+      "img": "https://static.toiimg.com/photo/99722979.jpeg",
+      "description": "The epic sequel continues the legendary tale of betrayal, honor, and war set in the Chola dynasty.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 47,
+      "title": "Adipurush",
+      "img": "https://saisaysmovies.wordpress.com/wp-content/uploads/2023/06/ezgif-sixteen_nine_252.jpg.webp",
+      "description": "A grand mythological action film inspired by the Ramayana, depicting the triumph of good over evil.",
+      "type": "actionMovies"
+    },
+    {
+      "id": 48,
+      "title": "Bholaa",
+      "img": "https://assets-in.bmscdn.com/discovery-catalog/events/et00326977-tuljwujqjg-landscape.jpg",
+      "description": "An intense action film about a man who, after being released from prison, embarks on a dangerous journey to reunite with his daughter.",
+      "type": "actionMovies"
+    }
+  ],
+  "comedyMovies": [
+    {
+      "id": 49,
+      "title": "HouseFull 4",
+      "img": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/3668/593668-h",
+      "description": "A reincarnation comedy where three brothers must recall their past lives to break the curse of marrying the wrong women.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 50,
+      "title": "OMG 2",
+      "img": "https://www.livemint.com/lm-img/img/2023/07/11/600x338/F0vbj9-aEAAamWQ_1689062929453_1689062943099.jpg",
+      "description": "A satirical take on religious practices in India, as a common man challenges the system with divine intervention.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 51,
+      "title": "Dunky",
+      "img": "https://i.pinimg.com/736x/93/b0/3b/93b03b050cb5cc021ef432be94cf30db.jpg",
+      "description": "A hilarious journey of an immigrant who tries to make his way to a better life, facing unexpected twists along the way.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 52,
+      "title": "Bad News",
+      "img": "https://static.toiimg.com/thumb/msid-108623688,width-1280,height-720,imgsize-91478,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "description": "A chaotic comedy where a series of misunderstandings and lies lead to hilarious consequences for everyone involved.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 53,
+      "title": "Varisu",
+      "img": "https://wallpapercave.com/wp/wp11261604.jpg",
+      "description": "A lighthearted family comedy-drama where the youngest son must return to his roots to save the family business.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 54,
+      "title": "Jailer",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkDzsyC6myOd54q49aCq0zYrLbXtN2b4WtzWxt7w1deMA-vKp1T7s9oJP8BiKuP6XHFGU&usqp=CAU",
+      "description": "A dark comedy where a jailer must outsmart a gang of criminals trying to escape, filled with quirky characters and unexpected humor.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 55,
+      "title": "Jackpot",
+      "img": "https://media-cache.cinematerial.com/p/500x/nah95llv/jackpot-movie-poster.jpg?v=1719929596",
+      "description": "Two con women embark on a rollercoaster ride of mishaps and mayhem as they try to retrieve a stolen jackpot.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 56,
+      "title": "Fukrey 3",
+      "img": "https://i.ytimg.com/vi/-YZRsxA7Rek/maxresdefault.jpg",
+      "description": "The hilarious misadventures of a group of friends continue as they plan yet another get-rich-quick scheme, leading to comedic chaos.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 57,
+      "title": "PT Sir",
+      "img": "https://i.ytimg.com/vi/pYc9wM0113Q/sddefault.jpg",
+      "description": "A sports comedy where a physical education teacher gets involved in humorous situations as he tries to lead his students to success.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 58,
+      "title": "Good News",
+      "img": "https://i.ytimg.com/vi/r9VJpqoAr84/maxresdefault.jpg",
+      "description": "A rib-tickling comedy of errors where two couples accidentally undergo a mix-up during IVF treatment, leading to hilarious consequences.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 59,
+      "title": "Fukrey",
+      "img": "https://s2.dmcdn.net/v/VGeT51b3OayTtQcLn/x720",
+      "description": "A comedy of errors where four friends try to turn their absurd dreams into reality, with disastrous yet funny results.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 60,
+      "title": "Jumanjy",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/0/b/g/small-spos13127-poster-jumanji-sl-13127-wall-poster-13x19-inches-original-imaggefhpxsgg7zh.jpeg?q=90&crop=false",
+      "description": "A fantastical adventure-comedy where a magical board game comes to life, throwing players into uproarious and dangerous challenges.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 61,
+      "title": "Hera Pheri",
+      "img": "https://m.media-amazon.com/images/M/MV5BNDU2YmFmNTUtMTYxNS00OGYyLTkzNGYtMzQ4NjRjNjk5YzRmXkEyXkFqcGc@._V1_.jpg",
+      "description": "A cult comedy where three broke men find themselves involved in a hilarious kidnapping-ransom mix-up.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 62,
+      "title": "Student of the Year 2",
+      "img": "https://i.ytimg.com/vi/bCAJp4Adj50/maxresdefault.jpg",
+      "description": "A campus comedy where three students compete for the coveted title, filled with romance, rivalry, and funny moments.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 63,
+      "title": "Thank God",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ExIPafOze-dMUIafSPkE3MjRXrreP2xfdA&s",
+      "description": "A hilarious take on life after death, where a man must redeem himself with good deeds before he can return to the living.",
+      "type": "comedyMovies"
+    },
+    {
+      "id": 64,
+      "title": "Judwaa 2",
+      "img": "https://i.ytimg.com/vi/fs7IVTm1JYw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCIe7T9zjCuvnqkEfBMPcJLY3ahaA",
+      "description": "A slapstick comedy where two identical twins, separated at birth, come together to defeat the bad guys with plenty of laughs along the way.",
+      "type": "comedyMovies"
+    }
+  ],
+  "fantasyMovies": [
+    {
+      "id": 65,
+      "title": "Adipurush",
+      "img": "https://saisaysmovies.wordpress.com/wp-content/uploads/2023/06/ezgif-sixteen_nine_252.jpg.webp",
+      "description": "A mythological epic based on the Ramayana, where good battles evil as Lord Rama fights the demon king Ravana to rescue his wife Sita.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 66,
+      "title": "Shakuntalam",
+      "img": "https://www.cinejosh.com/newsimg/newsmainimg/shakuntalam-movie-dev-mohan-dazzles-as-king-dushyant_b_1809221120.jpg",
+      "description": "An enchanting love story set in a magical world, focusing on Shakuntala and her divine romance with King Dushyanta, from the Indian mythology Mahabharata.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 67,
+      "title": "Thank God",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ExIPafOze-dMUIafSPkE3MjRXrreP2xfdA&s",
+      "description": "A fantasy comedy where a man gets a chance to redeem himself after dying, through a divine game that determines his fate in the afterlife.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 68,
+      "title": "Maaveeran",
+      "img": "https://static.toiimg.com/photo/101326374.cms",
+      "description": "A thrilling fantasy adventure of a heroic warrior who stands up against tyranny to save his people, armed with mythical powers and determination.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 69,
+      "title": "Kalki",
+      "img": "https://northeastlive.s3.amazonaws.com/media/uploads/2024/07/Kalki-cover.jpg",
+      "description": "Set in a futuristic world, a divine warrior is prophesied to restore balance to a world overrun by evil forces in this fantasy-action epic.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 70,
+      "title": "Jumanjy",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/0/b/g/small-spos13127-poster-jumanji-sl-13127-wall-poster-13x19-inches-original-imaggefhpxsgg7zh.jpeg?q=90&crop=false",
+      "description": "A magical board game comes to life, transporting players into a world filled with dangerous animals and thrilling challenges that can only be escaped by completing the game.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 71,
+      "title": "Aquaman 2",
+      "img": "https://i.ytimg.com/vi/HXjPwYAZGI0/maxresdefault.jpg",
+      "description": "In this underwater fantasy adventure, Aquaman returns to protect Atlantis and the surface world from new and formidable threats lurking in the ocean depths.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 72,
+      "title": "Shazam",
+      "img": "https://w0.peakpx.com/wallpaper/846/77/HD-wallpaper-movie-shazam-zachary-levi.jpg",
+      "description": "A young boy magically transforms into an adult superhero when he utters the word 'Shazam', bringing humor and excitement as he navigates his newfound powers.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 73,
+      "title": "Bahubali",
+      "img": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9e081727685123.56369171b80b1.jpg",
+      "description": "An epic saga of a legendary warrior prince, torn between loyalty and love, who must reclaim his kingdom and uncover secrets about his lineage.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 74,
+      "title": "The Mummy",
+      "img": "https://images.alphacoders.com/132/1323934.jpg",
+      "description": "An ancient Egyptian curse is unleashed when a mummy is awakened, bringing a mix of horror and adventure as the heroes battle the supernatural.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 75,
+      "title": "Batman Returns",
+      "img": "https://images8.alphacoders.com/134/thumb-350-1346226.webp",
+      "description": "Gotham City’s dark knight faces off against the Penguin and Catwoman, blending fantasy with crime-fighting action in this thrilling superhero sequel.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 76,
+      "title": "Pari",
+      "img": "https://i.ytimg.com/vi/BJfSxWPEYas/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBNPVCeI_ttG1xKNOfFu3NGORbV8w",
+      "description": "A chilling supernatural thriller that blurs the line between fantasy and horror as a mysterious woman with a dark past is at the center of sinister events.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 77,
+      "title": "Jurassic Attack",
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/4c70f9543f987355716450b82847ed0a8a2072e300a625a28711488148b01879.jpg",
+      "description": "A group of soldiers is stranded in a jungle full of prehistoric dinosaurs, leading to a suspenseful adventure as they fight to survive.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 78,
+      "title": "Sardaarji 2",
+      "img": "https://i.ytimg.com/vi/b-Hsfe7Gu2Q/maxresdefault.jpg",
+      "description": "A Punjabi warrior embarks on a fantasy-filled journey across different realms, mixing humor, action, and magic in his quest for a mystical artifact.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 79,
+      "title": "Conan",
+      "img": "https://i.ytimg.com/vi/uUHvLcb37KA/maxresdefault.jpg",
+      "description": "Conan the Barbarian takes on evil sorcerers and monstrous enemies in this fantasy classic, filled with sword-and-sorcery action in a mythical land.",
+      "type": "fantasyMovies"
+    },
+    {
+      "id": 80,
+      "title": "The Mummy Returns",
+      "img": "https://i.ytimg.com/vi/86P6FmyrY0M/maxresdefault.jpg",
+      "description": "In this sequel, an ancient evil is resurrected, leading to a perilous adventure full of ancient curses, mummies, and thrilling action.",
+      "type": "fantasyMovies"
     }
   ]
 }
